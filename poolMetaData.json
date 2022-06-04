@@ -2,5 +2,6 @@
 "name": "Alamo Stakepool",
 "description": "Our Principles: Energy Independence, Extreme Decentralization, Delegator Autonomy.",
 "ticker": "ALAM0",
-"homepage": "https://alamopool.io"
+"homepage": "https://alamopool.io",
+"extended": "https://github.com/qunosteve/alamostakepool/blob/main/extended_poolmetadata.json"
 }
