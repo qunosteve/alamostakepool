@@ -1,6 +1,6 @@
 {
     "info": {
-        "url_png_icon_64x64": "https://ipfs.filebase.io/ipfs/QmYqFjp829igvb2DQtKDhnRNCU6o96yNDFrzNZ4E1nD78K",
+        "url_png_icon_64x64": "https://ipfs.filebase.io/ipfs/QmfLwzvCVLThahdiwuFrYirKR2QLLgn8RGpxQBN4gAzgzj",
         "url_png_logo": "https://ipfs.filebase.io/ipfs/QmYNg7h9ky2QhUeamkBUNb9ssrbH3Lh6odxqSrze3aBw7a",
         "location": "Texas, USA",
         "social": {
@@ -11,8 +11,8 @@
         },
         "about": {
             "mission": "Our primary mission is to provide our delegators with energy independence via renewable energy.",
-            "servers": "We strictly operate only on-premise servers to maximize decentralization.",
-            "community": "With NFT giveaways, custom tokens, and more to come, our goal is to become THE most delegator-focused stakepool on Cardano!"
+            "servers": "We strictly operate on only on-premise servers to maximize decentralization.",
+            "community": "With NFT giveaways, stakepool utility tokens, and more to come, our goal is to become THE most delegator-focused stakepool on Cardano!"
         }
     }
 }
