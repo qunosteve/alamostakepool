@@ -1,30 +1,18 @@
 {
-    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
     "info": {
-        "url_png_icon_64x64": "http(s) url to pool icon; png format; not animated; max 40kb",
-        "url_png_logo": "http(s) url to pool logo; png format; not animated; max 50kb",
-        "location": "London, England",
+        "url_png_icon_64x64": "https://ipfs.filebase.io/ipfs/QmYqFjp829igvb2DQtKDhnRNCU6o96yNDFrzNZ4E1nD78K",
+        "url_png_logo": "https://ipfs.filebase.io/ipfs/QmYNg7h9ky2QhUeamkBUNb9ssrbH3Lh6odxqSrze3aBw7a",
+        "location": "Texas, USA",
         "social": {
-            "twitter_handle": "adapools_org",
-            "telegram_handle": "adapools_ops",
-            "facebook_handle": "",
-            "youtube_handle": "",
-            "twitch_handle": "",
-            "discord_handle": "",
-            "github_handle": ""
+            "twitter_handle": "AlamoStakepool",
+            "discord_handle": "TTR6Q8UrbT",
+            "youtube_handle": "channel/UCitI-yoqXMPyAQdUjEfxokg"            
         },
-        "company": {
-            "name": "Company Name",
-            "addr": "Street, Number",
-            "city": "London",
-            "country": "England",
-            "company_id": "123456789",
-            "vat_id": "GB123456789"
         },
         "about": {
-            "me": "...",
-            "server": "Raspberry Pi Hosted at my Home in London 100MB up/down, solar energy.",
-            "company": "..."
+            "mission": "Our primary mission is to provide our delegators with energy independence via renewable energy.",
+            "servers": "We strictly operate only on-premise servers to maximize decentralization.",
+            "community": "With NFT giveaways, custom tokens, and more to come, our goal is to become THE most delegator-focused stakepool on Cardano!"
         }
     }
 }
