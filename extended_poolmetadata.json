@@ -1,4 +1,5 @@
 {
+    "verification": "777baf2e49fce07702",
     "info": {
         "url_png_icon_64x64": "https://ipfs.filebase.io/ipfs/QmfLwzvCVLThahdiwuFrYirKR2QLLgn8RGpxQBN4gAzgzj",
         "url_png_logo": "https://ipfs.filebase.io/ipfs/QmYNg7h9ky2QhUeamkBUNb9ssrbH3Lh6odxqSrze3aBw7a",
@@ -10,7 +11,6 @@
         },
         "about": {
             "mission": "Our primary mission is to provide our delegators with energy independence via renewable energy.",
-            "verification": "777baf2e49fce07702",
             "servers": "We strictly operate on only on-premise servers to maximize decentralization.",
             "community": "With NFT giveaways, stakepool utility tokens, and more to come, our goal is to become THE most delegator-focused stakepool on Cardano!"
         }   
